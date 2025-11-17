@@ -1,5 +1,7 @@
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "neon"
+site.locale: "en"
+title: "Journal"
 
 plugins:
   - jekyll-relative-links
