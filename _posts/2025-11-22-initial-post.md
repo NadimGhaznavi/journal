@@ -1,5 +1,5 @@
 ---
-layout: post
+type: posts
 title:  "Initial Post"
 ---
 
