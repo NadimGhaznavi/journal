@@ -3,8 +3,6 @@ type: posts
 title:  "Initial Post"
 ---
 
-# Intro
-
 This is the **First Post** to validate the publishing pipeline.
 
 ---
