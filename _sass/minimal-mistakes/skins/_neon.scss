@@ -50,7 +50,8 @@ $base0f: #cc6633 !default;
 /* next/previous buttons */
 .pagination--pager {
     color: $text-color;
-    background-color: $primary-color;
+    /* background-color: $primary-color; */
+    background-color: #2c3a10;
     border-color: transparent;
 
     &:visited {
