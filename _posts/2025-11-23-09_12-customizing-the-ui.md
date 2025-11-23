@@ -1,6 +1,6 @@
 ---
 type: posts
-title:  "09:12 A.M. - Customizing the UI"
+title:  "09:12 AM : Customizing the UI"
 ---
 
 ![Sunrise](/images/bear_and_moose.png)
