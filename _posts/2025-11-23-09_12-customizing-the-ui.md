@@ -32,12 +32,16 @@ The **Colors** section near the top of the file sets the colors for the theme.
 ## Navigation Button Colors
 
 
-The snippet from the *Neon Skin file* shows where to change the color of the *Previous* and *Next* button colors.
+The line below (from the *Neon Skin file* file) shows where to change the color of the *Previous* and *Next* button colors.
 
-```yaml
-    /* next/previous buttons */
-        /* background-color: $primary-color; */
-        background-color: #2c3a10;
+```
+    background-color: #2c3a10;
+```
+
+Here's the old line:
+
+```
+    background-color: $primary-color; 
 ```
 
 ---
