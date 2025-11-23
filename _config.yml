@@ -115,7 +115,7 @@ analytics:
 author:
   name: "Nadim-Daniel"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Human Bean."
+  bio: "Human Bean"
   location: "Hamilton, ON"
   email: "nghaznavi@gmail.com"
   links:
