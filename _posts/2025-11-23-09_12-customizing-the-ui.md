@@ -46,8 +46,6 @@ Here's the old line:
 
 ---
 
-# Standard Post F
-
 # Links
 
 - [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) on GitHub
