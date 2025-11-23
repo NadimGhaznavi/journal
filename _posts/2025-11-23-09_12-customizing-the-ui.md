@@ -44,6 +44,18 @@ Here's the old line:
     background-color: $primary-color; 
 ```
 
+## Wallpaper Color
+
+```
+$background-color: #141010 !default;
+```
+
+## HTML Link Color
+
+```
+$link-color: #0084ff !default;
+```
+
 ---
 
 # Links
