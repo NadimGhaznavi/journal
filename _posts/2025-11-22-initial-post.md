@@ -3,26 +3,53 @@ type: posts
 title:  "Initial Post"
 ---
 
-# Heading One
+# Intro
 
-**Some bold text.**
+This is the **First Post** to validate the publishing pipeline.
 
-## Heading Two
+---
+
+# Text Types
+
+## Italics
 
 *Text that is in italics.*
 
-### Heading Three
+## Bold
+
+**Bold!**
+
+---
+
+# Lists
+
+# Unordered Lists
 
 - A bullet 
 - Another bullet
+
+## Ordered Lists
 
 1. First
 2. Second
 3. Third
 
+---
+
+# Formatted Texgt
+
+## Code
+
 ```python
 print(f"Initial Post")
 ```
 
-Hsm.
+## Tables
+
+Date | Notes
+-----|------
+2025/11/23 | Day 0
+2025/11/22 | Day -1
+2025/11/21 | Day -2
+
 
