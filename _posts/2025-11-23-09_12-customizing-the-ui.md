@@ -28,7 +28,21 @@ The **Colors** section near the top of the file sets the colors for the theme.
 
 - [Neon Skin file](_sass/minimal-mistakes/skins/_neon.scss) - `_sass/minimal-mistakes/skins/_neon.scss`.
 
+
+## Navigation Button Colors
+
+
+The snippet from the *Neon Skin file* shows where to change the color of the *Previous* and *Next* button colors.
+
+```yaml
+    /* next/previous buttons */
+        /* background-color: $primary-color; */
+        background-color: #2c3a10;
+```
+
 ---
+
+# Standard Post F
 
 # Links
 
