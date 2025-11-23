@@ -3,6 +3,8 @@ type: posts
 title:  "Initial Post"
 ---
 
+![Bear and Moose logo](/images/bear_and_moose.png)
+
 This is the **First Post** to validate the publishing pipeline.
 
 ---
@@ -15,7 +17,7 @@ This is the **First Post** to validate the publishing pipeline.
 
 ## Bold
 
-**Bold!**
+**Bold** text!
 
 ---
 
@@ -25,6 +27,7 @@ This is the **First Post** to validate the publishing pipeline.
 
 - A bullet 
 - Another bullet
+- One more...
 
 ## Ordered Lists
 
@@ -34,12 +37,18 @@ This is the **First Post** to validate the publishing pipeline.
 
 ---
 
-# Formatted Texgt
+# Formatted Text
 
 ## Code
 
 ```python
+# Python
 print(f"Initial Post")
+```
+
+```shell
+# Shell
+echo "Hello Posting Pipeline"
 ```
 
 ## Tables
@@ -50,4 +59,9 @@ Date | Notes
 2025/11/22 | Day -1
 2025/11/21 | Day -2
 
+---
+
+# Links
+
+- [Minimal Mistakes - Quick Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
