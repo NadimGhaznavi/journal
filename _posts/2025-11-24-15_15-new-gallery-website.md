@@ -1,7 +1,11 @@
 ---
 type: posts
-title:  "11/24 - 15:15 : New Galley Website"
+title:  "11/24 - 15:26 : New Galley Website"
 ---
+
+
+
+# 3:26 PM
 
 - Created a [DNS gallery record](https://mxtoolbox.com/SuperTool.aspx?action=a%3agallery.osoyalce.com&run=toolpage).
 - Created a [gallery GitHub repo](https://github.com/NadimGhaznavi/gallery).
