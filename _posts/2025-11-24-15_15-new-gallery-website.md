@@ -1,6 +1,6 @@
 ---
 type: posts
-title:  "03:15 PM : New Galley Website"
+title:  "11/24 - 15:15 : New Galley Website"
 ---
 
 - Created a [DNS gallery record](https://mxtoolbox.com/SuperTool.aspx?action=a%3agallery.osoyalce.com&run=toolpage).
