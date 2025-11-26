@@ -1,6 +1,6 @@
 ---
 type: posts
-title:  "11/23 - 09:12 : Customizing the UI"
+title:  "11/23 - 09:12 : Journal - Customizing the UI"
 ---
 
 ![Sunrise](/images/bear_and_moose.png)

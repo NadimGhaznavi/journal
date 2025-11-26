@@ -1,6 +1,6 @@
 ---
 type: posts
-title:  "11/25 - 17:47 : Aquaponics Plant Rescue"
+title:  "11/25 - 17:47 : Aquaponics - Plant Rescue"
 ---
 
 I have a mini-aquaponics setup with a couple of gravel beds hosting lettuce, miniature roses, brocolli and more. The primary tank houses a community of guppies and some aquarium plants. I recently had a tall plant break loose; it's a bit turbulent in those waters with the *bell siphon* *drain-and-flood* bed.

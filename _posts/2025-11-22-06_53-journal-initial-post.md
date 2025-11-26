@@ -1,6 +1,6 @@
 ---
 type: posts
-title:  "11/22 - 06:53 : Initial Post"
+title:  "11/22 - 06:53 : Journal - Initial Post"
 ---
 
 ![Bear and Moose logo](/images/bear_and_moose.png)

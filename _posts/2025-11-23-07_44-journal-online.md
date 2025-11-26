@@ -1,6 +1,6 @@
 ---
 type: posts
-title:  "11/23 - 07:44 : Online"
+title:  "11/23 - 07:44 : Journal - Online"
 ---
 
 ![Sunrise](/images/bear_and_moose.png)

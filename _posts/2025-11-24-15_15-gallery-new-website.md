@@ -1,6 +1,6 @@
 ---
 type: posts
-title:  "11/24 - 15:26 : New Galley Website"
+title:  "11/24 - 15:26 : Galley - New Website"
 ---
 
 
