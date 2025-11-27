@@ -1,6 +1,6 @@
 ---
 type: posts
-title:  "11/24 - 15:27 : Journal - Site updates"
+title:  "11/24 - 15:27 : Gallery - Site updates"
 ---
 
 Time  | Description
