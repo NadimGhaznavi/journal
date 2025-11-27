@@ -1,5 +1,5 @@
 ---
-type: posts
+layout: posts
 title:  "11/23 - 07:44 : Journal - Online"
 ---
 

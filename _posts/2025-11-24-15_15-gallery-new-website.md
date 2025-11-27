@@ -1,5 +1,5 @@
 ---
-type: posts
+layout: posts
 title:  "11/24 - 15:26 : Galley - New Website"
 ---
 

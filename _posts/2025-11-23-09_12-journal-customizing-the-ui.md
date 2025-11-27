@@ -1,5 +1,5 @@
 ---
-type: posts
+layout: posts
 title:  "11/23 - 09:12 : Journal - Customizing the UI"
 ---
 

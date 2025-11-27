@@ -1,5 +1,5 @@
 ---
-type: posts
+layout: posts
 title:  "11/22 - 06:53 : Journal - Initial Post"
 ---
 

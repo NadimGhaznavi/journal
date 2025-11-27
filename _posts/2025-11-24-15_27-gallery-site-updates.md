@@ -1,5 +1,5 @@
 ---
-type: posts
+layout: posts
 title:  "11/24 - 15:27 : Gallery - Site updates"
 ---
 

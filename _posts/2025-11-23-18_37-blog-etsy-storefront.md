@@ -1,5 +1,5 @@
 ---
-type: posts
+layout: posts
 title:  "11/23 - 18:38 : Blog - Etsy Storefront"
 ---
 

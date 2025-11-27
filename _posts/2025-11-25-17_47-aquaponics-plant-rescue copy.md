@@ -1,5 +1,5 @@
 ---
-type: posts
+layout: posts
 title:  "11/25 - 17:47 : Aquaponics - Plant Rescue"
 ---
 
