@@ -1,0 +1,14 @@
+---
+layout: posts
+title:  "11/28 - 14:02 : Job Applications"
+---
+
+My relentless search for a formal job...
+
+Applications sent out today:
+
+* [Information Systems & Solutions Specialist-0004](https://www.glassdoor.ca/job-listing/information-systems-solutions-specialist-0004-pace-independent-living-JV_IC2281069_KO0,45_KE46,69.htm?jl=1009946064447&src=GD_JOB_AD&uido=E78E689003A881930F5B9F9027115246&ao=1110586&jrtk=5-yul1-1-1jb5tcd8vi958800-d09dc1802c9abeb7---6NYlbfkN0Dch0Hx5nS1i5LelLeRA7xSiRAFAh_wJUicpvuaypWMdS_ornj6JkK7VLdbkTOvlrUgRNz6bwVcdxS2n6awG3mhZQEUvHvswmxmt0Nyi6AJtsZG9RBBP-PyZ9l1R1D4zBSM0rhiXLCO_OsDvDf7HAI7UuZvaYU14Wqs9GaiLjd6RpczD44K6Z_p4pW13VBsU2EBjZxA4EM3tN4VGwa1pc7se5YcF57xbqtBTUvV_lxtJiwGx2aGGIXIFbEMVQZFZSBTwV0IwjRcjWnfjCg_6Z4rEArtiKCVLyqKz2v-Ng7qdneYonEHLqCarJ38chwn0rmCPrconGnQuiSOwOOuGUfu463p_RFemcLwFOs2CH_zSqOZPjQ1MJHYHpnu_nutQRhJxkNK440iSjtp1LHDbr0wPSMfuNGbY5BasSeJEHG1ZLzEJQSWleSPB1lJdu7JTEgTL_ytg-PaKLXawolTJUTd2Wx-yFuh7GXLt1zqsrV5WRF9f2ihNyybtNsgn97l0zd4GyakgQ1DSTZPMZXBrRdqUzCFKUrKjbtpJhRM2BuhWeINtaEEBNHz6ujDRsAyLdOQfez5KUr43BljVOR-m3ndHwY-aQwUMoXY0_0SRgLcTsf-zVKQa_Ei0_79ym6hefHfSUwRCOEMFjrKIY1GS7NmmGnD_2lQqsPd9V8xp64Ud0Woti3rYVxD_Uty2C3F-ASS_h1BdvyyVhwYvP1DaUKDnv0t-ewflhx_StVYsyPu3XSmh9k1GOI4oVl_w7dEjtm764eCiNthpA%3D%3D&cs=1_523e7e26&s=353&t=REC_JOBS&pos=102&cpc=FB7E4A1762AE5BEC&guid=0000019acbd634d4890c5e3f4b6bcfe2&jobListingId=1009946064447&ea=1&vt=w&cb=1764356404973&ctt=1764356494408)
+* Walters Group - [IT Support Analyst](https://www.glassdoor.ca/partner/jobListing.htm?pos=113&ao=1136043&s=353&guid=0000019acbd634d4890c5e3f4b6bcfe2&src=GD_JOB_AD&t=REC_JOBS&vt=w&uido=E78E689003A881930F5B9F9027115246&ea=1&cs=1_7a561918&cb=1764356404974&jobListingId=1009948311200&jrtk=5-yul1-1-1jb5tcd8vi958800-5009f9864f2059b6)
+* GiftCash - [Data Verification Associate](https://giftcash.applytojob.com/apply/bfPqzFLbKY/Data-Verification-Associate?vq_campaign=12f7b849-7f09-58bf-8295-4dc150870024&vq_source=69e0a81a-de0d-439c-a5c4-08ec4026f27a)
+* Sobeys - [Cashier](https://www.ziprecruiter.com/job-redirect?match_token=eyJKb2JLZXkiOnsibGlzdGluZ19rZXkiOiJNMWtsS3UtdjUzc3JHQkFxMWRKQ3JnIiwibWF0Y2hfaWQiOiIwMTlhY2NiMC03NmJkLTc1NWQtYWQ3ZC00YmEwMjJjMmUzNWUiLCJiaWRfdHJhY2tpbmdfZGF0YSI6IkFBRXp1Sk0zb1RKZ1Y2YmVnVUZDdEtqQm0wNlBidHVOWW1pQ0tsN3BrUmpodGdkWWxRWjZrelVDMFBjeC1McXMxdyJ9LCJEZXN0aW5hdGlvbiI6MiwiRXh0ZXJuYWxBcHBseVVybCI6Imh0dHBzOi8vcG9zdGluZ3Muc29iZXlzY2FyZWVycy5jb20vc29iZXlzL2pvYi9TdG9uZXktQ3JlZWstQ2FzaGllci1QVC0lMjgtMTglMjktT04tTDhKLTJWNC8xMzQ1NTAzMjAwLz9mZWVkSWQ9MjQ0MjAwXHUwMDI2dXRtX3NvdXJjZT1aaXBSZWNydWl0ZXJcdTAwMjZ1dG1fY2FtcGFpZ249SjJXX1pJUCIsIlBsYWNlbWVudElkIjo0NDA3MX0%3D)
+* YWCA - [IT Technician](https://www.glassdoor.ca/partner/jobListing.htm?pos=814&ao=1136043&s=353&guid=0000019acccee642bc0888ec6e346259&src=GD_JOB_AD&t=REC_JOBS&vt=w&uido=E78E689003A881930F5B9F9027115246&cs=1_d8c9bd4d&cb=1764372703362&jobListingId=1009943065609&jrtk=5-yul1-1-1jb6ctpl8g375800-77f2a51a91972833)
