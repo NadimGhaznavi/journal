@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "11/27 - 21:42 : Painted - Listening
+title:  "11/27 - 21:42 : Painted - Listening"
 ---
 
 I spent a bit of time working on a painting. This is **very much** an initial draft, nowhere close to done. Also, the colors are off in this image.

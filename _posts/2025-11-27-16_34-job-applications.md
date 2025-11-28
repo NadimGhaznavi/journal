@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "11/27 - 16:34 : Job Applications
+title:  "11/27 - 16:34 : Job Applications"
 ---
 
 My relentless search for a formal job...

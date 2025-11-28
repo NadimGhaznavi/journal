@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "11/27 - 17:35 : Cycled Downtown
+title:  "11/27 - 17:35 : Cycled Downtown"
 ---
 
 I spend too much time at my desk at home. The ride downtown was a bit tough, going against 
