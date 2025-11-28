@@ -1,11 +1,12 @@
 ---
 layout: posts
-title:  "11/27 - 17:35 : Cycled Downtown
+title:  "11/27 - 21:42 : Painted - Listening
 ---
 
-I spend too much time at my desk at home. The ride downtown was a bit tough, going against 
-the wind, but coming back was a delight! Plus I banged out a couple of chores: CHECK, CHECK!
+I spent a bit of time working on a painting. This is **very much** an initial draft, nowhere close to done. Also, the colors are off in this image.
 
-![Gore Park](/images/2025-11-27-gore-park.jpg)
+![Listening v02](/images/2025-11-27-listening-02.jpg)
 
-This is not my photograph, but it's a nice one, right? It doesn't currently look this green.
+Here's what it looked like before I did the work:
+
+![Listening v02](/images/2025-11-27-listening-01.jpg)
