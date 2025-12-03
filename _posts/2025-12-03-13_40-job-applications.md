@@ -1,0 +1,15 @@
+---
+layout: posts
+title:  "12/03 - 13:40 : Job Applications"
+---
+
+My relentless search for a formal job...
+
+Applications sent out today:
+
+- Tata - [Application Support Analyst](https://www.linkedin.com/jobs/view/4321708351/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=jOQU1wtVMUiaRupZInvAtA%3D%3D&trackingId=8kIGlaw6dp%2F%2FCHc2b%2B0O8w%3D%3D&trk=flagship3_jobs_discovery_jymbii&lipi=urn%3Ali%3Apage%3Ad_flagship3_jobs_discovery_jymbii%3BXhOsDj86QIiIutRhTTc0bg%3D%3D&lici=8kIGlaw6dp%2F%2FCHc2b%2B0O8w%3D%3D)
+- Paymentus - [Application Support Engineer - Weekends and Night Shift](https://www.linkedin.com/jobs/view/4339059996/?alternateChannel=search&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=jOQU1wtVMUiaRupZInvAtA%3D%3D&trackingId=dElXXj3Ts%2FzQ4rORSCmfzQ%3D%3D&trk=d_flagship3_postapply_default_confirmation&lipi=urn%3Ali%3Apage%3Ad_flagship3_jobs_discovery_jymbii%3BiBrNjjkoQbG1gl0libfnHQ%3D%3D)
+- Evertz - [Tier 2 Technical Support - evTOC](https://www.linkedin.com/jobs/view/4338681351/?alternateChannel=search&refId=jOQU1wtVMUiaRupZInvAtA%3D%3D&trackingId=kc1v5KMA6AWkM7q%2FXJF1Gw%3D%3D&trk=d_flagship3_jobs_discovery_jymbii&lipi=urn%3Ali%3Apage%3Ad_flagship3_jobs_discovery_jymbii%3BiBrNjjkoQbG1gl0libfnHQ%3D%3D&lici=kc1v5KMA6AWkM7q%2FXJF1Gw%3D%3D)
+- Cohesity - [Technical Support Engineer](https://www.linkedin.com/jobs/view/4269930847/?alternateChannel=search&refId=jOQU1wtVMUiaRupZInvAtA%3D%3D&trackingId=GQ8LrN39YFhv772oZRqtrA%3D%3D&trk=d_flagship3_jobs_discovery_jymbii&lipi=urn%3Ali%3Apage%3Ad_flagship3_jobs_discovery_jymbii%3BBtNa72X6R%2FysHzRfhvaXjg%3D%3D&lici=GQ8LrN39YFhv772oZRqtrA%3D%3D)
+- Tata - [Linux Administrator](https://www.linkedin.com/jobs/view/4323532795/?alternateChannel=search&eBP=CwEAAAGa5kNrfSKzGgWIw8k7gNGdjOFpzsVvkL4Usy6sZU-QDeyhi5IHuCt5srZHpARSpvHI_Bjmu_vf7cP2bvRAWz3R_E_v0pmgD8NGj93Zn89idrBwI9AuURJxVd3pD5jVdSrd2bFIsts4nIbHoIHfPbgGvk9G5pBX8PdIvrv_uurlKWJoZhqihuJtzdqtfbZjX2v5UbygfVJZfNjQLluKX7Slb0xn7GtXIhE4d-9TV4_pLXVTbRJ6yJhRzhVb0S72ltlvp1R90YiwQWdlDzx9Lab6RqbeXTTSbJXDh5Y6-U7fpRld4B3FUUKPbYvWWDOzSN2slnSSm7lUkl263rZIveH1TSw2zFhcJ-mmMzRR35lprA4BTfRIswFvlLpDSlnhQDm_p-JXZ7_-2FYzNNf44EiR-nxRPGI0g2mzZSubyIoCAJJJQDmx_LTF3yuD1iLk0KiKW2zhFD_mcg&refId=9LzzuJUSTa3cf9xmHnT8bA%3D%3D&trackingId=kFU%2FI3U1B8T%2BlUI%2Bi4ttYg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_jobs_discovery_jymbii%3BItBmRbRMRzyInzd6cRoWNg%3D%3D)
+- Tundra Technical Solutions - [Problem Management Specialist](https://www.linkedin.com/jobs/view/4339124158/?alternateChannel=search&eBP=CwEAAAGa5kOGIKBvm8DJFYjZj9M5bg7OUmInAc87KwAjnGnKoZhXkfdNC-vg_OSbQB01-SYYkluxgaIICHmv0xLrCKG60HdHWkbgs6bgIBm-nTsA2pAw8ffiXFNT64-nXIAPjDnM7rJqi2dQUhUi-3ROxpLkKWz-m4tb-9E74CJ-7npTY2mNAImWD7joyl8y2xKqzj66gFwSTGyXAsBv08C62NHpIuf0FIFGBTOWUdynLLPGNuwimBOIwwheGTZh-hgmXqxRYEYBrbsgSMS_XIUZ_OjgsTQRufyw2lTnC94S_1Dqz7B03cXPYZ3k2leOjI-DnUnpiERDI3uU63YcECWR66nzQgD9-yQ0cawf7nO9XYyLivz_YFVQq3LRXYry_fDBHfckYlSDBo-OLkEBTCReclBLmB4cC-2AZ2knQJfNOEbbJeSJlULUSZ1b9r1Ja-eBOyye_0XrXI5vyIgIyPo&refId=zsWGoHNSohallxyuEVbczw%3D%3D&trackingId=CgIzwAXvcxGl%2BeriVLt%2FTQ%3D%3D&trk=d_flagship3_postapply_default_confirmation&lipi=urn%3Ali%3Apage%3Ad_flagship3_jobs_discovery_jymbii%3BS7dj9540StqXupeSb5gkow%3D%3D)
