@@ -10,4 +10,3 @@ Applications sent out today:
 - City of Hamilton - [Bus Driver](https://cityofhamilton.bamboohr.com/careers/1641)
 - City of Hamilton - [Museum Operations Clerk](https://cityofhamilton.bamboohr.com/careers/1654)
 - Walmart - Cashier
-
